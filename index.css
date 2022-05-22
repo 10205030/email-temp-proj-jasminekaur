@@ -1,0 +1,28 @@
+.row-one {
+    border: 1px solid lightgrey;
+}
+.email {
+    background-color: rgb(250, 242, 229);
+    font-family: serif;
+}
+.col-email {
+    flex: auto; 
+    height: 100%;
+    padding: 0;
+}
+.search-button {
+    background-color: rgba(240, 248, 255, 0.887)
+}
+h5 {
+    font-weight: bold;
+}
+.col-box {
+    height: 100vh;
+}
+.col-box, p {
+    font-family: serif;
+    background-color: rgb(250, 242, 229);
+}
+a {
+    text-decoration: none;
+}
